@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildNumberDev</key>
+	<string>2017072701</string>
+	<key>BuildNumberHoc</key>
+	<string>2017032202</string>
+	<key>EnvironmentString</key>
+	<string>dev</string>
+	<key>OutputPath</key>
+	<string>/Users/virgilTang/Desktop/Archive</string>
+	<key>ProjectName</key>
+	<string>PetSmart</string>
+	<key>ProvisioningProfileDev</key>
+	<string>AppDevExportOptions.plist</string>
+	<key>ProvisioningProfileDis</key>
+	<string>AppStoreExportOptions.plist</string>
+	<key>ProvisioningProfileHoc</key>
+	<string>AdHocExportOptions.plist</string>
+	<key>SVNPathDev</key>
+	<string>svn://ouyanqing@192.168.24.251/project/test/ios%E4%B8%93%E7%94%A8/%E6%B5%8B%E8%AF%95%E6%9C%8D/%E6%9C%89%E5%AE%A0%E6%99%BA%E8%83%BD</string>
+	<key>SVNPathHoc</key>
+	<string>svn://ouyanqing@192.168.24.251/project/test/ios%E4%B8%93%E7%94%A8/%E6%B5%8B%E8%AF%95%E6%9C%8D/%E6%9C%89%E5%AE%A0%E6%99%BA%E8%83%BD</string>
+	<key>SchemeName</key>
+	<string>PetSmart</string>
+	<key>WorkspaceName</key>
+	<string>PetSmart</string>
+	<key>WorkspacePath</key>
+	<string>/Users/virgilTang/Desktop/YourPet/project/PetSmart</string>
+</dict>
+</plist>
